@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on SCI Sistemas Contábeis
 - 🌱 I’m currently learning Java, Javascript,Typescript, MySQL and Delphi
 - 📫 How to reach me: gabrielkrzizanowski@gmail.com or in my Linkedin account Gabriel Krzizanowski
+- 📚 At the college
 
 <div align="center">
   <a href="https://github.com/Gabrielkr28">
