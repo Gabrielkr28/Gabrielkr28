@@ -1,7 +1,7 @@
 ### Hi there my name is Gabriel 👋
 
 - 🔭 I’m currently working on SCI Sistemas Contábeis
-- 🌱 I’m currently learning Java, Javascript,Typescript, MySQL and Delphi
+- 🌱 I’m currently learning Java, Javascript,Typescript, Spring Boot and MySQL
 - 📫 How to reach me: gabrielkrzizanowski@gmail.com or in my Linkedin account Gabriel Krzizanowski
 - 📚 At the college
 
