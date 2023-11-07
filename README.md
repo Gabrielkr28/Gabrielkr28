@@ -1,6 +1,5 @@
 ### Hi there my name is Gabriel 👋
 
-- 🔭 I’m currently working on CloudPark.
 - 🌱 I’m currently learning python for data, and web applications.
 - 📫 How to reach me: gabrielkrzizanowski@gmail.com or in my Linkedin account Gabriel Krzizanowski.
 - 📚 At the college.
