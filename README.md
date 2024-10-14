@@ -1,5 +1,8 @@
 Olá, eu sou Gabriel Krzizanowski! 👋
+
+
 Sobre mim
+
 🎓 Atualmente cursando Sistemas de Informação na FURB (Blumenau) e com 4 anos de experiência no mercado de TI, atuo como Desenvolvedor C# .NET na Benner Sistemas.
 
 💼 Tenho experiência no desenvolvimento de soluções para o setor de Recursos Humanos, com foco em folha de pagamento e atividades legais, utilizando as tecnologias:
