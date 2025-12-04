@@ -34,6 +34,6 @@ I am currently expanding my knowledge in **Computer Software Engineering** throu
 
 | Contact | Details |
 | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/gabriel-krizanowski-26662918a](https://www.linkedin.com/in/gabriel-krizanowski-26662918a) |
+| **LinkedIn** | [linkedin.com/in/gabriel-krizanowski-26662918a](https://www.linkedin.com/in/gabriel-krzizanowski-26662918a/) |
 | **E-mail** | gabrielkrizanowski@gmail.com |
-| **Portfolio/Website** | [gabrielkrizanowski.vercel.app](https://gabrielkrizanowski.vercel.app) |
+| **Portfolio/Website** | [gabrielkrizanowski.vercel.app](https://gabrielkrzizanowski.vercel.app/) |
