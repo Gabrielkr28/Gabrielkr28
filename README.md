@@ -3,38 +3,37 @@
 
 ---
 
-Sou um **Engenheiro de Software** com mais de **6 anos de experiência**, focado em desenvolver **soluções inovadoras, escaláveis e de alta performance**. Minha paixão é criar sistemas robustos, utilizando **práticas ágeis** e as melhores tecnologias do mercado.
+I am a **Software Engineer** with over **6 years of professional experience**, focused on developing **innovative, scalable, and high-performance solutions**. My passion is creating robust systems, utilizing **Agile practices** and the best market technologies.
 
-Atualmente, estou aprofundando meus conhecimentos em **Engenharia de Software** através de uma Pós-graduação *Lato Sensu* na **PUC Minas** (set de 2025 – out de 2027), complementando minha formação em Sistemas de Informação pela FURB.
+I am currently expanding my knowledge in **Computer Software Engineering** through a *Lato Sensu* Postgraduate degree at **PUC Minas** (Sep 2025 – Oct 2027), complementing my degree in Information Systems from FURB.
 
-**Busco ativamente vagas** como **Desenvolvedor Back-end**, onde possa aplicar minha expertise em arquitetura, escalabilidade e otimização de sistemas.
+**I am actively seeking roles** as a **Back-end Developer**, where I can apply my expertise in system architecture, scalability, and optimization.
 
-## 🛠️ Stack Principal
+## 🛠️ Core Stack
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
 | **Backend** | `C# .NET` / `Java Spring Boot` / `Python (Django)` / `Microservices` |
-| **Bancos de Dados** | `SQL` / `Oracle` / `MySQL` / `SQL Server` |
+| **Databases** | `SQL` / `Oracle` / `MySQL` / `SQL Server` |
 | **Cloud/DevOps** | `AWS` / `Azure` / `Linux` / `Git` |
 | **Frontend/Mobile** | `Angular` / `Android` |
 
-## 🌟 Habilidades e Foco
+## 🌟 Skills and Focus
 
-* **Arquitetura de Software:** Design e implementação de sistemas escaláveis e resilientes.
-* **Melhores Práticas:** Clean Code, SOLID, Design Patterns e Metodologias Ágeis (Scrum/Kanban).
-* **Inovação:** Interesse em `Inteligência Artificial` (Participei do programa **Jornada InicIA**).
-* **Proficiência em Inglês:** **TOEFL iBT - B2** e prática de conversação avançada.
+* **Software Architecture:** Design and implementation of scalable and resilient systems.
+* **Best Practices:** Clean Code, SOLID, Design Patterns, and Agile Methodologies (Scrum/Kanban).
+* **Innovation:** Interest in `Artificial Intelligence` (Completed the **Jornada InicIA** program).
+* **English Proficiency:** **TOEFL iBT - B2** and advanced conversation practice.
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Statistics
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrielkr28&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Gabrielkr28)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkr28&layout=compact&theme=dark)](https://github.com/Gabrielkr28)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielkr28&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Gabrielkr28)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkr28&layout=compact&theme=dark)](https://github.com/Gabrielkr28)
 
+## 🌐 Connect with Me
 
-## 🌐 Conecte-se Comigo
-
-| Contato | Detalhes |
+| Contact | Details |
 | :--- | :--- |
 | **LinkedIn** | [linkedin.com/in/gabriel-krizanowski-26662918a](https://www.linkedin.com/in/gabriel-krizanowski-26662918a) |
 | **E-mail** | gabrielkrizanowski@gmail.com |
-| **Portfólio/Website** | [gabrielkrizanowski.vercel.app](https://gabrielkrizanowski.vercel.app) |
+| **Portfolio/Website** | [gabrielkrizanowski.vercel.app](https://gabrielkrizanowski.vercel.app) |
