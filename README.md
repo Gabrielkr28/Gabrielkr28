@@ -1,39 +1,52 @@
-# 🚀 Gabriel Krizanowski
-### Software Engineer | Back-end Focus | Cloud Enthusiast
+# Hi there, I'm Gabriel Krzizanowski! 👋
+
+### Backend Software Engineer | Go • Java • Python | Cloud (AWS/Azure) | Data Science
+
+I am a **Software Engineer** with over 6 years of professional experience building scalable, high-performance, and mission-critical enterprise applications. My technical expertise centers around robust backend development, distributed systems, cloud architectures, and data-driven solutions.
+
+* 🎯 Currently working as a **Software Developer III** at **Senior Sistemas**, building scalable microservices for the HCM (Payroll/Folha X) ecosystem.
+* 🎓 Pursuing a Postgraduate degree in **Software Engineering** at **PUC Minas** and graduated in **Information Systems** from **FURB**.
+* 🌐 TOEFL iBT B2 certified with experience collaborating directly in English-speaking global environments.
+* 🧠 Passionate about AI integrations, system performance optimization, and continuous technical learning.
 
 ---
 
-I am a **Software Engineer** with over **6 years of professional experience**, focused on developing **innovative, scalable, and high-performance solutions**. My passion is creating robust systems, utilizing **Agile practices** and the best market technologies.
+### 🛠️ Tech Stack & Skills
 
-I am currently expanding my knowledge in **Computer Software Engineering** through a *Lato Sensu* Postgraduate degree at **PUC Minas** (Sep 2025 – Oct 2027), complementing my degree in Information Systems from FURB.
+* **Backend:** Go (Golang) | Java (Spring Boot) | C# (.NET) | Python (Django, Flask) | Delphi
+* **Cloud & DevOps:** Microsoft Azure | Amazon Web Services (AWS) | Docker | Kubernetes | ArgoCD/Argo Workflows | Railway | CI/CD Pipelines
+* **Databases & Messaging:** PostgreSQL | Oracle SQL | MySQL | SQL Server | Redis | RabbitMQ | Elasticsearch
+* **Frontend:** React | Next.js | TypeScript | Angular | Tailwind CSS
 
-**I am actively seeking roles** as a **Back-end Developer**, where I can apply my expertise in system architecture, scalability, and optimization.
+---
 
-## 🛠️ Core Stack
+### 🚀 Highlighted Projects
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | `C# .NET` / `Java Spring Boot` / `Python (Django)` / `Microservices` |
-| **Databases** | `SQL` / `Oracle` / `MySQL` / `SQL Server` |
-| **Cloud/DevOps** | `AWS` / `Azure` / `Linux` / `Git` |
-| **Frontend/Mobile** | `Angular` / `Android` |
+#### 🩺 [FisioPediatrica Management System](https://franfisiopedi.com.br)
+A comprehensive, end-to-end clinical management SaaS designed for pediatric physiotherapy. 
+* **Backend:** Go (Gin) + PostgreSQL with embedded database migrations via `go:embed` for a single, self-contained binary execution.
+* **Frontend:** React 18 + TypeScript + Vite + Tailwind CSS.
+* **DevOps:** Multi-stage Docker deployments hosted on Railway, achieving tiny (~25MB) Alpine image sizes and sub-second cold starts.
+* **Features:** Integrated AIMS motor scales, automatic cranial index and CVAI calculations, scheduling, finance trackers, and PDF reporting.
 
-## 🌟 Skills and Focus
+#### 🏆 ContCel (Award-Winning Academic & Startup Project)
+A system focused on machine learning models and data tools which was developed as part of my undergraduate TCC. 
+* Co-developed a machine learning model to count and identify atypical neurons in partnership with the FURB Medicine department (graded 10/10).
+* Presented at the *Conexão WK* startup event, winning **2nd Place** in the startup program.
 
-* **Software Architecture:** Design and implementation of scalable and resilient systems.
-* **Best Practices:** Clean Code, SOLID, Design Patterns, and Agile Methodologies (Scrum/Kanban).
-* **Innovation:** Interest in `Artificial Intelligence` (Completed the **Jornada InicIA** program).
-* **English Proficiency:** **TOEFL iBT - B2** and advanced conversation practice.
+---
 
-## 📈 GitHub Statistics
+### 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielkr28&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Gabrielkr28)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkr28&layout=compact&theme=dark)](https://github.com/Gabrielkr28)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielkrzizanowski&show_icons=true&theme=radical" alt="Gabriel's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkrzizanowski&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
 
-## 🌐 Connect with Me
+---
 
-| Contact | Details |
-| :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/gabriel-krizanowski-26662918a](https://www.linkedin.com/in/gabriel-krzizanowski-26662918a/) |
-| **E-mail** | gabrielkrizanowski@gmail.com |
-| **Portfolio/Website** | [gabrielkrizanowski.vercel.app](https://gabrielkrzizanowski.vercel.app/) |
+### 📫 Connect with Me
+
+* **LinkedIn:** [/in/gabriel-krzizanowski](https://www.linkedin.com/in/gabriel-krzizanowski-26662918a)
+* **Portfolio:** [gabrielkrzizanowski.vercel.app](https://gabrielkrzizanowski.vercel.app)
+* **Email:** gabrielkrzizanowski@gmail.com
